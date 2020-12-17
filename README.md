@@ -1,10 +1,16 @@
-# Demo project for Yup.
+# Demo project for Yup
 
 ## Installation
 
-First make sure you have a Postgresql server running (TODO: run an image from `docker-compose`)
+Clone the repository to your local environment.
 
-After cloning the repository, run:
+```bash
+npm install
+```
+
+## Run
+
+First make sure you have a Postgresql server running (TODO: run an image from `docker-compose`)
 
 ```bash
 # Tell the backend server how to connect to the database
